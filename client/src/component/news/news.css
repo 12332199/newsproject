@@ -1,0 +1,63 @@
+/* .card p{
+  font-size: 16px;
+  font-weight:400 ; 
+  line-height: 20px;
+}
+
+.card h3{
+font-size: 24px; 
+font-weight:600 ; 
+word-spacing: -2px;
+}
+
+.cardRight h4{
+    margin-left: 10px;
+    line-height: 22px;
+    word-spacing: -1px;
+    font-weight: 500;
+}
+.cardRight p{
+    margin-left: 10px;
+    line-height: 24px;
+    word-spacing: -1px;
+    font-weight: 400;
+} */
+
+.card{
+  
+  width: 17rem;
+  height: 40vh;
+}
+.Nborder img{
+  padding-left: 10px;
+
+}
+
+.Nborder h6{
+ 
+ font-size: 14px;
+  padding: 10px;
+}
+.Nborder h6:hover{
+ 
+   color: #474747b6;
+   
+ }
+.Nborder a{
+  text-decoration: none;
+  color:#000;
+}
+
+.Nborder a:hover{
+  text-decoration: none;
+  color:#000;
+}
+@media (max-width:768px){
+  
+  .Nborder h6{
+ 
+    font-size: 12px !important;
+    margin: 10px;
+ }
+ 
+}

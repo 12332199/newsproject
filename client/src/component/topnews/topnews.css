@@ -1,0 +1,26 @@
+.topNews img{
+    width: 70px;
+    height: 70px;
+    border-radius: 2px;
+}
+.topNews p{
+    font-size: 14px;
+    padding-left: 5px;
+    
+   
+}
+.card{
+    height: 72vh;
+    border: none;
+    overflow: hidden;
+}
+
+.card a{
+    text-decoration: none;
+    color: #474747b6 !important;
+}
+
+.card a:hover{
+    text-decoration: none;
+    color:#474747b6;
+}
